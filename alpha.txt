@@ -1,0 +1,1 @@
+This is alpha file details. Written in Vim Editor!!
